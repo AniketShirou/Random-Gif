@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Random-Gif/static/css/main.a4414267.css",
+    "main.js": "/Random-Gif/static/js/main.50151925.js",
+    "index.html": "/Random-Gif/index.html",
+    "main.a4414267.css.map": "/Random-Gif/static/css/main.a4414267.css.map",
+    "main.50151925.js.map": "/Random-Gif/static/js/main.50151925.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4414267.css",
+    "static/js/main.50151925.js"
+  ]
+}
